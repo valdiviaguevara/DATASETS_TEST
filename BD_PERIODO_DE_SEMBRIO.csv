@@ -1,0 +1,60 @@
+Regiao;Cultivo;Plantio;Colheita_Primeira;Colheita_Ultimo
+Sul;Ameixa;Julho;Setembro;Outubro
+Sul;Amendoim;Setembro;Janeiro;Abril
+Sul;Arroz;Setembro;Novembro;Abril
+Sul;Aveia;Abril;Outubro;Dezembro
+Sul;Café;Setembro;Maio;Novembro
+Sul;Cítricos;Outubro;Dezembro;Março
+Sul;Erva Mate;Abril;Março;Agosto
+Sul;Feijão;Agosto;Outubro;Março
+Sul;Fumo;Agosto;Dezembro;Fevereiro
+Sul;Maçã;Dezembro;Janeiro;Abril
+Sul;Milho;Agosto;Dezembro;Junho
+Sul;Soja;Setembro;Janeiro;Maio
+Sul;Tomate;Agosto;***;***
+Sul;Trigo;Maio;Setembro;Dezembro
+Sul;Uva;Julho;Outubro;Dezembro
+Sudeste;Algodão;Outubro;Março;Julho
+Sudeste;Alho;Março;3_a_4_meses_depois;3_a_4_meses_depois
+Sudeste;Ameixa;Julho;***;***
+Sudeste;Amendoim;Setembro;Dezembro;Março
+Sudeste;Banana;O ano inteiro;Um_ano_depois;Um_ano_depois
+Sudeste;Batata;Abril;3_a_4_meses_depois;3_a_4_meses_depois
+Sudeste;Café;Outubro;Abril;Setembro
+Sudeste;Cana de açúcar;Outubro;Abril;Setembro
+Sudeste;Cebola;Fevereiro;4_a_6_meses_depois;4_a_6_meses_depois
+Sudeste;Cítricos;Outubro;Todo;Todo
+Sudeste;Feijão;Outubro;Janeiro;Abril
+Sudeste;Mandioca;Setembro;Março;Julho
+Sudeste;Milho;Outubro;Janeiro;Junho
+Sudeste;Pêssego;Julho;***;***
+Sudeste;Tomate;Agosto;***;***
+Sudeste;Uva;Julho;Outubro;Dezembro
+Nordeste;Algodão;Janeiro;Junho;Dezembro
+Nordeste;Amendoim;Março;Maio;Agosto
+Nordeste;Arroz;Outubro;Janeiro;Abril
+Nordeste;Cacau;Início da chuva;Fevereiro;Maio
+Nordeste;Cana de açúcar;Setembro;Novembro;Abril
+Nordeste;Coco;Início da chuva;6_meses_depois;6_meses_depois
+Nordeste;Feijão;Outubro;Janeiro;Abril
+Nordeste;Fumo;Agosto;Dezembro;Fevereiro
+Nordeste;Mandioca;Março;Junho;Outubro
+Nordeste;Manga;Fevereiro;Janeiro;Dezembro
+Nordeste;Milho;Outubro;Fevereiro;Junho
+Nordeste;Soja;Outubro;Fevereiro;Maio
+Nordeste;Uva;Dezembro;Dezembro;Março
+Nordeste;Uva;Dezembro;Junho;Julho
+Norte;Arroz;Outubro;***;***
+Norte;Coco;Início da chuva;6_meses_depois;6_meses_depois
+Norte;Guaraná;Janeiro;Novembro;Dezembro
+Norte;Mandioca;Setembro;Março;Julho
+Norte;Maracujá;Todo o ano;Um_ano_depois;6_meses_depois
+Norte;Milho;Agosto;***;***
+Centro_Oeste;Algodão;Novembro;Abril;Junho
+Centro_Oeste;Amendoim;Novembro;Março;Abril
+Centro_Oeste;Arroz;Setembro;Janeiro;Abril
+Centro_Oeste;Cana de açúcar;Outubro;Abril;Dezembro
+Centro_Oeste;Mandioca;Setembro;Março;Agosto
+Centro_Oeste;Milho;Outubro;Fevereiro;Junho
+Centro_Oeste;Soja;Outubro;Janeiro;Maio
+Centro_Oeste;Tomate;Fevereiro;Abril;Outubro
